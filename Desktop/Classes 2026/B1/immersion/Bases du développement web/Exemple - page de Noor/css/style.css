@@ -1,0 +1,172 @@
+/* ===== Couleurs du site ===== */
+:root {
+  --primaire: #7b5cfa;
+  --accent: #ffc23c;
+  --nuit: #1e1b3a;
+  --texte: #1e1b3a;
+  --fond: #f7f5ff;
+  --carte: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  line-height: 1.6;
+  color: var(--texte);
+  background: var(--fond);
+}
+
+/* ===== En-tête et navigation (mobile d'abord) ===== */
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 16px 24px;
+  background: var(--nuit);
+  color: white;
+}
+
+.logo {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: var(--accent);
+}
+
+/* ===== Contenu ===== */
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+h2 {
+  color: var(--primaire);
+}
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  text-align: center;
+}
+
+.hero img {
+  width: 160px;
+  max-width: 100%;
+  height: auto;
+}
+
+.cartes {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.carte {
+  flex: 1;
+  padding: 20px;
+  border-radius: 12px;
+  background: var(--carte);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* ===== Formulaire et boutons ===== */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  max-width: 480px;
+}
+
+input,
+textarea {
+  padding: 10px;
+  border: 2px solid #d9d4f5;
+  border-radius: 8px;
+  font: inherit;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  background: var(--primaire);
+  color: white;
+  font: inherit;
+  cursor: pointer;
+}
+
+button:hover {
+  background: var(--accent);
+  color: var(--nuit);
+}
+
+.erreur {
+  margin: 0;
+  color: #e03131;
+  font-weight: bold;
+}
+
+footer {
+  padding: 16px;
+  background: var(--nuit);
+  color: white;
+  text-align: center;
+}
+
+/* ===== Mode sombre ===== */
+body.sombre {
+  --texte: #f1eefc;
+  --fond: #120f26;
+  --carte: #2d1e6b;
+}
+
+/* ===== Écrans larges ===== */
+@media (min-width: 700px) {
+  header {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .hero {
+    flex-direction: row;
+    text-align: left;
+  }
+
+  .cartes {
+    flex-direction: row;
+  }
+}

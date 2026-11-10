@@ -1,0 +1,223 @@
+Aria (guerrier) niv. 1 | PV 130/130 | XP 0 | Or 20 | Sac : 
+Aria achète : potion (10 pièces)
+Pas assez d'or !
+=== Combat : Aria contre Slime ===
+Tour 1 : Aria inflige 9 dégâts
+Tour 1 : Slime inflige 1 dégâts
+Tour 2 : Aria inflige 9 dégâts
+Tour 2 : Slime inflige 1 dégâts
+Tour 3 : Aria inflige 9 dégâts
+Slime est vaincu !
+Succès débloqué : Premier sang
+=== Combat : Aria contre Gobelin ===
+Tour 1 : Aria inflige 9 dégâts
+Tour 1 : Gobelin inflige 4 dégâts
+Tour 2 : Aria inflige 9 dégâts
+Tour 2 : Gobelin inflige 4 dégâts
+Tour 3 : Aria inflige 9 dégâts
+Tour 3 : Gobelin inflige 4 dégâts
+Tour 4 : Aria inflige 9 dégâts
+Gobelin est vaincu !
+=== Combat : Aria contre Gobelin ===
+Tour 1 : Aria inflige 9 dégâts
+Tour 1 : Gobelin inflige 4 dégâts
+Tour 2 : Aria inflige 9 dégâts
+Tour 2 : Gobelin inflige 4 dégâts
+Tour 3 : Aria inflige 9 dégâts
+Tour 3 : Gobelin inflige 4 dégâts
+Tour 4 : Aria inflige 9 dégâts
+Gobelin est vaincu !
+=== Combat : Aria contre Orc ===
+Tour 1 : Aria inflige 9 dégâts
+Tour 1 : Orc inflige 8 dégâts
+Tour 2 : Aria inflige 9 dégâts
+Tour 2 : Orc inflige 8 dégâts
+Tour 3 : Aria inflige 9 dégâts
+Tour 3 : Orc inflige 8 dégâts
+Tour 4 : Aria inflige 9 dégâts
+Tour 4 : Orc inflige 8 dégâts
+Tour 5 : Aria inflige 9 dégâts
+Tour 5 : Orc inflige 8 dégâts
+Tour 6 : Aria inflige 9 dégâts
+Tour 6 : Orc inflige 8 dégâts
+Tour 7 : Aria inflige 9 dégâts
+Orc est vaincu !
+Aria passe au niveau 2 !
+=== Combat : Aria contre Slime ===
+Tour 1 : Aria inflige 11 dégâts
+Tour 1 : Slime inflige 1 dégâts
+Tour 2 : Aria inflige 11 dégâts
+Slime est vaincu !
+Succès débloqué : Chasseur
+=== Combat : Aria contre Orc ===
+Tour 1 : Aria inflige 11 dégâts
+Tour 1 : Orc inflige 8 dégâts
+Tour 2 : Aria inflige 11 dégâts
+Tour 2 : Orc inflige 8 dégâts
+Tour 3 : Aria inflige 11 dégâts
+Tour 3 : Orc inflige 8 dégâts
+Tour 4 : Aria inflige 11 dégâts
+Tour 4 : Orc inflige 8 dégâts
+Tour 5 : Aria inflige 11 dégâts
+Tour 5 : Orc inflige 8 dégâts
+Tour 6 : Aria inflige 11 dégâts
+Orc est vaincu !
+Succès débloqué : Riche
+Aria achète : epee (50 pièces)
+Aria achète : grande potion (25 pièces)
+Objet inconnu
+=== Combat : Aria contre Dragon ===
+Tour 1 : Aria inflige 16 dégâts
+Tour 1 : Dragon inflige 23 dégâts
+Tour 2 : Aria inflige 16 dégâts
+Tour 2 : Dragon inflige 23 dégâts
+Tour 3 : Aria inflige 16 dégâts
+Tour 3 : Dragon inflige 23 dégâts
+Tour 4 : COUP CRITIQUE ! 32 dégâts
+Tour 4 : Dragon inflige 23 dégâts
+Tour 5 : Aria inflige 16 dégâts
+Tour 5 : Dragon inflige 23 dégâts
+Aria est mort...
+Aria boit une potion : +50 PV
+Aria (guerrier) niv. 2 | PV 50/140 | XP 170 | Or 29 | Sac : potion, epee
+Succès : ['Premier sang', 'Chasseur', 'Riche']
+Aria (mage) niv. 1 | PV 80/80 | XP 0 | Or 20 | Sac : 
+Aria achète : potion (10 pièces)
+Pas assez d'or !
+=== Combat : Aria contre Slime ===
+Tour 1 : Aria inflige 12 dégâts
+Tour 1 : Slime inflige 3 dégâts
+Tour 2 : Aria inflige 12 dégâts
+Slime est vaincu !
+Succès débloqué : Premier sang
+=== Combat : Aria contre Gobelin ===
+Tour 1 : Aria inflige 12 dégâts
+Tour 1 : Gobelin inflige 6 dégâts
+Tour 2 : Aria inflige 12 dégâts
+Tour 2 : Gobelin inflige 6 dégâts
+Tour 3 : Aria inflige 12 dégâts
+Gobelin est vaincu !
+=== Combat : Aria contre Gobelin ===
+Tour 1 : Aria inflige 12 dégâts
+Tour 1 : Gobelin inflige 6 dégâts
+Tour 2 : COUP CRITIQUE ! 24 dégâts
+Gobelin est vaincu !
+=== Combat : Aria contre Orc ===
+Tour 1 : Aria inflige 12 dégâts
+Tour 1 : Orc inflige 10 dégâts
+Tour 2 : Aria inflige 12 dégâts
+Tour 2 : Orc inflige 10 dégâts
+Tour 3 : Aria inflige 12 dégâts
+Tour 3 : Orc inflige 10 dégâts
+Tour 4 : Aria inflige 12 dégâts
+Tour 4 : Orc inflige 10 dégâts
+Tour 5 : Aria inflige 12 dégâts
+Orc est vaincu !
+Aria passe au niveau 2 !
+=== Combat : Aria contre Slime ===
+Tour 1 : Aria inflige 14 dégâts
+Tour 1 : Slime inflige 3 dégâts
+Tour 2 : Aria inflige 14 dégâts
+Slime est vaincu !
+Succès débloqué : Chasseur
+=== Combat : Aria contre Orc ===
+Tour 1 : Aria inflige 14 dégâts
+Tour 1 : Orc inflige 10 dégâts
+Tour 2 : Aria inflige 14 dégâts
+Tour 2 : Orc inflige 10 dégâts
+Tour 3 : Aria inflige 14 dégâts
+Tour 3 : Orc inflige 10 dégâts
+Tour 4 : Aria inflige 14 dégâts
+Tour 4 : Orc inflige 10 dégâts
+Tour 5 : Aria inflige 14 dégâts
+Orc est vaincu !
+Succès débloqué : Riche
+Aria achète : epee (50 pièces)
+Aria achète : grande potion (25 pièces)
+Objet inconnu
+=== Combat : Aria contre Dragon ===
+Tour 1 : Aria inflige 19 dégâts
+Tour 1 : Dragon inflige 25 dégâts
+Tour 2 : Aria inflige 19 dégâts
+Tour 2 : Dragon inflige 25 dégâts
+Aria est mort...
+Aria boit une potion : +50 PV
+Aria (mage) niv. 2 | PV 50/90 | XP 170 | Or 29 | Sac : potion, epee
+Succès : ['Premier sang', 'Chasseur', 'Riche']
+Aria (archer) niv. 1 | PV 100/100 | XP 0 | Or 20 | Sac : 
+Aria achète : potion (8 pièces)
+Pas assez d'or !
+=== Combat : Aria contre Slime ===
+Tour 1 : Aria inflige 8 dégâts
+Tour 1 : Slime inflige 3 dégâts
+Tour 2 : Aria inflige 8 dégâts
+Tour 2 : Slime inflige 3 dégâts
+Tour 3 : Aria inflige 8 dégâts
+Slime est vaincu !
+Succès débloqué : Premier sang
+=== Combat : Aria contre Gobelin ===
+Tour 1 : COUP CRITIQUE ! 16 dégâts
+Tour 1 : Gobelin inflige 6 dégâts
+Tour 2 : COUP CRITIQUE ! 16 dégâts
+Tour 2 : Gobelin inflige 6 dégâts
+Tour 3 : COUP CRITIQUE ! 16 dégâts
+Gobelin est vaincu !
+=== Combat : Aria contre Gobelin ===
+Tour 1 : COUP CRITIQUE ! 16 dégâts
+Tour 1 : Gobelin inflige 6 dégâts
+Tour 2 : Aria inflige 8 dégâts
+Tour 2 : Gobelin inflige 6 dégâts
+Tour 3 : Aria inflige 8 dégâts
+Tour 3 : Gobelin inflige 6 dégâts
+Tour 4 : COUP CRITIQUE ! 16 dégâts
+Gobelin est vaincu !
+=== Combat : Aria contre Orc ===
+Tour 1 : Aria inflige 8 dégâts
+Tour 1 : Orc inflige 10 dégâts
+Tour 2 : Aria inflige 8 dégâts
+Tour 2 : Orc inflige 10 dégâts
+Tour 3 : Aria inflige 8 dégâts
+Tour 3 : Orc inflige 10 dégâts
+Tour 4 : COUP CRITIQUE ! 16 dégâts
+Tour 4 : Orc inflige 10 dégâts
+Tour 5 : Aria inflige 8 dégâts
+Tour 5 : Orc inflige 10 dégâts
+Tour 6 : Aria inflige 8 dégâts
+Tour 6 : Orc inflige 10 dégâts
+Tour 7 : Aria inflige 8 dégâts
+Orc est vaincu !
+Aria passe au niveau 2 !
+=== Combat : Aria contre Slime ===
+Tour 1 : Aria inflige 10 dégâts
+Tour 1 : Slime inflige 3 dégâts
+Tour 2 : Aria inflige 10 dégâts
+Slime est vaincu !
+Succès débloqué : Chasseur
+=== Combat : Aria contre Orc ===
+Tour 1 : Aria inflige 10 dégâts
+Tour 1 : Orc inflige 10 dégâts
+Tour 2 : Aria inflige 10 dégâts
+Tour 2 : Orc inflige 10 dégâts
+Tour 3 : Aria inflige 10 dégâts
+Tour 3 : Orc inflige 10 dégâts
+Tour 4 : Aria inflige 10 dégâts
+Tour 4 : Orc inflige 10 dégâts
+Tour 5 : Aria inflige 10 dégâts
+Tour 5 : Orc inflige 10 dégâts
+Tour 6 : Aria inflige 10 dégâts
+Orc est vaincu !
+Succès débloqué : Riche
+Aria achète : epee (48 pièces)
+Aria achète : grande potion (23 pièces)
+Objet inconnu
+=== Combat : Aria contre Dragon ===
+Tour 1 : Aria inflige 15 dégâts
+Tour 1 : Dragon inflige 25 dégâts
+Tour 2 : Aria inflige 15 dégâts
+Tour 2 : Dragon inflige 25 dégâts
+Tour 3 : Aria inflige 15 dégâts
+Tour 3 : Dragon inflige 25 dégâts
+Aria est mort...
+Aria boit une potion : +50 PV
+Aria (archer) niv. 2 | PV 50/110 | XP 170 | Or 35 | Sac : potion, epee
+Succès : ['Premier sang', 'Chasseur', 'Riche']
